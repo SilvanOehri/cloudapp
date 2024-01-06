@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cloudapp/static/css/main.526c0e68.css",
+    "main.js": "/cloudapp/static/js/main.4b15346b.js",
+    "index.html": "/cloudapp/index.html",
+    "main.526c0e68.css.map": "/cloudapp/static/css/main.526c0e68.css.map",
+    "main.4b15346b.js.map": "/cloudapp/static/js/main.4b15346b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.526c0e68.css",
+    "static/js/main.4b15346b.js"
+  ]
+}
